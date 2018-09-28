@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#90EE90</color>
+    <color name="colorPrimaryDark">#98FB98</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Total">#FF4500</color>
+    <color name="HoraEntrada">#33CC33</color>
+    <color name="HoraSalida">#3399CC</color>
+
+</resources>
